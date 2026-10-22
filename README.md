@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="./spin.gif">
 
 <!--
 **q231508/q231508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
